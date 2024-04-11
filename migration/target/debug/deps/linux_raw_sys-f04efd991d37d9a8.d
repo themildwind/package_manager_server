@@ -1,0 +1,10 @@
+/home/lzq/clone/learning/serverbackend/migration/target/debug/deps/liblinux_raw_sys-f04efd991d37d9a8.rmeta: /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/linux-raw-sys-0.3.8/src/lib.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/linux-raw-sys-0.3.8/src/x86_64/errno.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/linux-raw-sys-0.3.8/src/x86_64/general.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/linux-raw-sys-0.3.8/src/x86_64/ioctl.rs
+
+/home/lzq/clone/learning/serverbackend/migration/target/debug/deps/liblinux_raw_sys-f04efd991d37d9a8.rlib: /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/linux-raw-sys-0.3.8/src/lib.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/linux-raw-sys-0.3.8/src/x86_64/errno.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/linux-raw-sys-0.3.8/src/x86_64/general.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/linux-raw-sys-0.3.8/src/x86_64/ioctl.rs
+
+/home/lzq/clone/learning/serverbackend/migration/target/debug/deps/linux_raw_sys-f04efd991d37d9a8.d: /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/linux-raw-sys-0.3.8/src/lib.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/linux-raw-sys-0.3.8/src/x86_64/errno.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/linux-raw-sys-0.3.8/src/x86_64/general.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/linux-raw-sys-0.3.8/src/x86_64/ioctl.rs
+
+/home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/linux-raw-sys-0.3.8/src/lib.rs:
+/home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/linux-raw-sys-0.3.8/src/x86_64/errno.rs:
+/home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/linux-raw-sys-0.3.8/src/x86_64/general.rs:
+/home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/linux-raw-sys-0.3.8/src/x86_64/ioctl.rs:

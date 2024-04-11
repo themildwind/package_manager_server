@@ -1,0 +1,10 @@
+/home/lzq/clone/learning/serverbackend/migration/target/debug/deps/libthread_local-9a68476f98de4f81.rmeta: /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.8/src/lib.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.8/src/cached.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.8/src/thread_id.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.8/src/unreachable.rs
+
+/home/lzq/clone/learning/serverbackend/migration/target/debug/deps/libthread_local-9a68476f98de4f81.rlib: /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.8/src/lib.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.8/src/cached.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.8/src/thread_id.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.8/src/unreachable.rs
+
+/home/lzq/clone/learning/serverbackend/migration/target/debug/deps/thread_local-9a68476f98de4f81.d: /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.8/src/lib.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.8/src/cached.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.8/src/thread_id.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.8/src/unreachable.rs
+
+/home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.8/src/lib.rs:
+/home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.8/src/cached.rs:
+/home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.8/src/thread_id.rs:
+/home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.8/src/unreachable.rs:

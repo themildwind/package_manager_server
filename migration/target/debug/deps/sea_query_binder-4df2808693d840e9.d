@@ -1,0 +1,10 @@
+/home/lzq/clone/learning/serverbackend/migration/target/debug/deps/libsea_query_binder-4df2808693d840e9.rmeta: /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/sea-query-binder-0.5.0/src/lib.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/sea-query-binder-0.5.0/src/sqlx_mysql.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/sea-query-binder-0.5.0/src/values.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/sea-query-binder-0.5.0/src/sqlx.rs
+
+/home/lzq/clone/learning/serverbackend/migration/target/debug/deps/libsea_query_binder-4df2808693d840e9.rlib: /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/sea-query-binder-0.5.0/src/lib.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/sea-query-binder-0.5.0/src/sqlx_mysql.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/sea-query-binder-0.5.0/src/values.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/sea-query-binder-0.5.0/src/sqlx.rs
+
+/home/lzq/clone/learning/serverbackend/migration/target/debug/deps/sea_query_binder-4df2808693d840e9.d: /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/sea-query-binder-0.5.0/src/lib.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/sea-query-binder-0.5.0/src/sqlx_mysql.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/sea-query-binder-0.5.0/src/values.rs /home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/sea-query-binder-0.5.0/src/sqlx.rs
+
+/home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/sea-query-binder-0.5.0/src/lib.rs:
+/home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/sea-query-binder-0.5.0/src/sqlx_mysql.rs:
+/home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/sea-query-binder-0.5.0/src/values.rs:
+/home/lzq/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/sea-query-binder-0.5.0/src/sqlx.rs:
